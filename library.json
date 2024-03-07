@@ -1,21 +1,26 @@
 {
-  "name": "WebSerial",
+  "name": "WebSerialDark",
   "keywords": "WebSerial, serial, monitor, ESP8266, ESP32, webpage, websocket, wireless",
-  "description": "WebSerial is a webpage based Serial Monitor to log, monitor, or debug your code remotely.",
+  "description": "WebSerial is a webpage based Serial Monitor to log, monitor, or debug your code remotely. This fork brings dark mode to the table.",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/ayushsharma82/WebSerial.git"
+    "url": "https://github.com/mwdle/WebSerialDark.git"
   },
   "authors":
   [
     {
       "name": "Ayush Sharma",
       "email": "asrocks5@gmail.com",
+      "maintainer": false
+    },
+    {
+      "name": "Mike W",
+      "email": "m@mwdle.com",
       "maintainer": true
     }
   ],
-  "version": "1.4.0",
+  "version": "1.4.1",
   "frameworks": "arduino",
   "platforms": "espressif"
 }
