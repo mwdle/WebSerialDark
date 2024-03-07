@@ -15,7 +15,7 @@
 <hr/>
 
 <br/>
-<h4>Fork Info: Brings dark mode to WebSerial.</h4>
+<h3>Fork Info: Brings dark mode to WebSerial.</h3>
 <p><b>WebSerial</b> is a Serial Monitor for <b>ESP8266</b> & <b>ESP32</b> Microcontrollers that can be accessed remotely via a web browser. Webpage is stored in program memory of the microcontroller.</p>
 
 <br/>
