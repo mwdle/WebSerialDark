@@ -21,7 +21,7 @@
 <br/>
 
 <h2 align="center">Preview</h2>
-<p align="center"><img src="https://raw.githubusercontent.com/ayushsharma82/WebSerial/master/docs/webserial.PNG" width="850"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mwdle/WebSerialDark/master/docs/webserial.PNG" width="850"></p>
 
 <br/>
 <br/>
