@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@gfx/zopfli": "^1.0.14",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^5.0.0",
     "core-js": "^2.6.11",
     "shards-ui": "^2.1.2",
     "vue": "^2.6.11",
